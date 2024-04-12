@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/tirsvad/TirsvadCLI.Math.PrimeNumbers">
+  <a href="https://github.com/TirsvadCLI/Python.Math.Prime-number-checker">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -26,14 +26,14 @@
   <p align="center">
     An awesome prime number checker made in python!
     <br />
-    <a href="https://github.com/tirsvad/TirsvadCLI.Math.PrimeNumbers"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TirsvadCLI/Python.Math.Prime-number-checker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tirsvad/TirsvadCLI.Math.PrimeNumbers">View Demo</a>
+    <a href="https://github.com/TirsvadCLI/Python.Math.Prime-number-checker">View Demo</a>
     ·
-    <a href="https://github.com/tirsvad/TirsvadCLI.Math.PrimeNumbers/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/TirsvadCLI/Python.Math.Prime-number-checker/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/tirsvad/TirsvadCLI.Math.PrimeNumbers/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/TirsvadCLI/Python.Math.Prime-number-checker/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
